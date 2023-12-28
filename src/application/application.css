@@ -1,0 +1,30 @@
+#scene {
+	-fx-background-color: LIGHTGRAY;
+}
+
+#login-error {
+	-fx-text-fill: RED;
+	-fx-font-weight: bold;
+	-fx-padding: -10px 0 10px 0;
+}
+
+#employee-section {
+	-fx-background-color: LIGHTGRAY;
+	-fx-padding: 10px
+}
+
+#employee-section-label {
+	-fx-padding: 0.0 0 10px 0;
+	-fx-font-size: 14pt;
+	-fx-font-weight: bold;
+}
+
+.table-column {
+	-fx-alignment: CENTER;
+}
+
+#terminated-error {
+	-fx-text-fill: RED;
+	-fx-font-weight: bold;
+	-fx-padding: 10px
+}
