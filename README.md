@@ -14,6 +14,10 @@ Phase 1 and Phase 2 of this project were designed to complete all backend functi
   - Terminate Employee
   - Pay Employees
   - Exit
+ 
+> [!NOTE]
+> Preview the GUI: <br/>
+> [Login Page](https://i.ibb.co/kKGrsS0/Login-Scene.png), [Employee List (Manager View)](https://i.ibb.co/rbc0JHY/Employee-Scene-Manager-Access.png), [Employee List (Employee View)](https://i.ibb.co/B2VnJJR/Employee-Scene-Employee-Access.png), [Create Employee](https://i.ibb.co/B2k5x8L/Create-Employee-Scene.png), [Payroll Report](https://i.ibb.co/vHC4PjK/Pay-Report-Scene.png)
 
 ## Deliverables
 There was one major deliverable for this project, split into three separate phases.
